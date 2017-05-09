@@ -1,0 +1,16 @@
+org\nau\beangrinderUI\config\CORSFilter.class
+org\nau\beangrinderUI\dao\ActivityDao.class
+org\nau\beangrinderUI\model\Course.class
+org\nau\beangrinderUI\model\Task.class
+org\nau\beangrinderUI\model\Student.class
+org\nau\beangrinderUI\dao\StudentDao.class
+org\nau\beangrinderUI\controller\IndexController.class
+org\nau\beangrinderUI\model\Activity.class
+org\nau\beangrinderUI\dao\CourseDao.class
+org\nau\beangrinderUI\config\HelloWorldConfiguration.class
+org\nau\beangrinderUI\dao\TaskDao.class
+org\nau\beangrinderUI\service\AllService.class
+org\nau\beangrinderUI\controller\AllController.class
+org\nau\beangrinderUI\service\AllServiceImpl.class
+org\nau\beangrinderUI\config\HelloWorldInitializer.class
+org\nau\beangrinderUI\dao\Database.class
